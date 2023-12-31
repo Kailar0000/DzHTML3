@@ -1,0 +1,62 @@
+.Rectangle6 {
+  position: relative;
+  width: 1319px;
+  height: 928px;
+}
+
+.Rectangle7 {
+  position: absolute;
+  top: 50px;
+  left: 100px;
+  width: 1289px;
+  height: 114px;
+}
+
+.Rectangle9 {
+  position: absolute;
+  top: 36px;
+  left: 600px;
+  float: right;
+  width: 556px;
+  height: 40px;
+}
+
+.Rectangle10 {
+  position: absolute;
+  top: 150px;
+  left: 100px;
+  width: 1274px;
+  height: 536px;
+}
+
+.Rectangle11 {
+  width: 589px;
+  height: 494px;
+}
+
+.Rectangle12 {
+  width: 374px;
+  height: 94px;
+}
+
+.Rectangle13 {
+  position: absolute;
+  top: 640px;
+  left: 60px;
+  width: 1240px;
+  height: 158px;
+}
+
+.logodiv {
+  position: absolute;
+  top: 19px;
+  left: 25px;
+  width: 400px;
+  height: 46px;
+}
+
+.Fone {
+  position: absolute;
+  top: 50px;
+  left: 600px;
+}
